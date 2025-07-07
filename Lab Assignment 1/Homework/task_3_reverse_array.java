@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 public class task_3_reverse_array {
     public static void main(String[] args) {
