@@ -31,5 +31,4 @@ public class task_1_prime_number {
     }
 }
 
-
     
