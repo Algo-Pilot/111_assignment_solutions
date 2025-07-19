@@ -1,3 +1,4 @@
+//task3
 public class Reader {
     public String name;
     public int capacity;

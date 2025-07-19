@@ -1,3 +1,4 @@
+//task 2
 public class Cart {
     public String name = "";
     public String [] items = new String [3];
