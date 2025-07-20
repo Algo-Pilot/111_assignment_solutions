@@ -1,4 +1,4 @@
-public class task5 {
+public class task5_cw {
     public static void main(String [] args){
         int [][] A = {{1, 0, 0},
                       {0, 1, 0},

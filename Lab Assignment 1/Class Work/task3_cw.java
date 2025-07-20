@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class task3 {
+public class task3_cw {
     public static void main(String [] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("N = ");
