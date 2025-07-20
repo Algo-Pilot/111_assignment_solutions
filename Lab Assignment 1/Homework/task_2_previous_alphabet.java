@@ -13,6 +13,7 @@ public class task_2_previous_alphabet {
             n += chr;
         }
         System.out.println(n);
+        sc.close();
     }
 }
     

@@ -28,5 +28,6 @@ public class task_1_prime_number {
             }
         }
         System.err.println("There are "+ count +" prime numbers between "+start+" and "+end+".");
+        sc.close();
     }
 }

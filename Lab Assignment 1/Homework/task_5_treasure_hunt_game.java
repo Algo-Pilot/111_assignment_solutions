@@ -79,6 +79,7 @@ public class task_5_treasure_hunt_game {
         if (total_moves == 0) {
             System.out.println("Failed to find the treasure.");
         }
+        sc.close();
     }
     public static void printMap(int[][] arr) {
         for (int[] row: arr) {

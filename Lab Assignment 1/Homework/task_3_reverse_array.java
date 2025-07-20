@@ -17,6 +17,7 @@ public class task_3_reverse_array {
             }
             
         }
+        sc.close();
     }
 }
     
