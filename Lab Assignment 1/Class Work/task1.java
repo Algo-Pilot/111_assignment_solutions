@@ -20,11 +20,17 @@ public class task1 {
             }
             
         }
-        System.out.println("Sum = " + sum);
-        System.out.println("Minimum = " + min);
-        System.out.println("Maximum = " + max);
-        double avg = sum / (double)count;
-        System.out.println("Average = " + avg);
+        if(sum !=0){
+            System.out.println("Sum = " + sum);
+            System.out.println("Minimum = " + min);
+            System.out.println("Maximum = " + max);
+            double avg = sum / (double)count;
+            System.out.println("Average = " + avg);
+        }
+        else{
+            System.out.println("No odd positive numbers found");
+        }
+        
         sc.close();
     }
 }
