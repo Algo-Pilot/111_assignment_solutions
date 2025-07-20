@@ -14,5 +14,6 @@ public class task2{
         }
         System.out.println(concat);
         System.out.println(sum);
+        sc.close();
     }
 }
