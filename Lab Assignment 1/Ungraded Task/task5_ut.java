@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class task5 {
+public class task5_ut {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("M = ");
